@@ -21,7 +21,7 @@ locale.setlocale(locale.LC_ALL,"")
 # 윈도우 창 표시를 위한 모듈
 window = Tk()
 window.geometry("300x200")
-window.title("코로나 확진자 조회")
+window.title("코로나 확진자 조회 프로그램")
 
 
 
